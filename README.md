@@ -15,8 +15,9 @@
 
 ![star-struck_1f929](https://user-images.githubusercontent.com/66276312/156313568-3afb93f0-b61f-488c-a2c2-1a4d37d29445.png)
 Community
-- Community leader "Student Ambassador La Paz". 🥳
--  Co-founder of the community "Student Ambassadors Cochabamba". 🥳
+- Community leader "Microsoft Learn Student Ambassadors ![image](https://user-images.githubusercontent.com/66276312/160996418-d41a9937-1df7-4336-afdf-2d291ee5e382.png La Paz". 🥳
+-  Co-founder of the community "Microsoft Learn Student Ambassadors ![image](https://user-images.githubusercontent.com/66276312/160996449-9c031422-400d-44bf-9a68-eba7c5497d05.png)
+ Cochabamba". 🥳
 -  Co-founder of the community "Student Ambassadors El Alto". 🥳
 -  Founder of the student community "Microsoft Learn Student Ambassadors Bolivia". 🥳
 
