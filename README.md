@@ -4,7 +4,7 @@
 ![waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb](https://user-images.githubusercontent.com/66276312/156313699-fac8a08f-a803-4387-a911-f2b5644929c9.png)
  Hi, I’m @CarlaMamaniChavez 🚀
  
-- 👩🏼‍💻I'm a student of Computer Science in the University 'Mayor de San Andres'
+- 👩🏼‍💻I'm a a bachelor's degree Computer Science in the University 'Mayor de San Andres'
 - 👀 I’m interested in all things AI, Mixed Reality 🥽 and Low code.🦾
 - 🌱 I’m currently #MSFTStudentAmbassadors Gold Microsoft Learn Student Ambassador and Microsoft Most Valuable Professional
 - ▶ GitHub Campus Expert Trainee
